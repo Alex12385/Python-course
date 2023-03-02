@@ -23,4 +23,4 @@ else:
         if count < min:
             min = count
             index = i
-    print(f'Число {list[index]} в списке наиболее близко по величине к числу {n}, их разница составляет {abs(n - list[index])}')
+    print(f'Число {list[index]} в списке наиболее близко по величине к числу {n}')
